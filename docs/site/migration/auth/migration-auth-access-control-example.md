@@ -648,8 +648,8 @@ The app has very basic usage of casbin:
 
 - uses a model file to describe the shape of request, policy, role mapping, and
   the decision rules.
-  - syntax doc for [casbin models](https://casbin.org/docs/en/syntax-for-models)
-  - syntax doc for [casbin role inheritance](https://casbin.org/docs/en/rbac)
+  - syntax doc for [casbin models](https://casbin.org/docs/syntax-for-models)
+  - syntax doc for [casbin role inheritance](https://casbin.org/docs/rbac)
   - what is request definition: a set of info collected from the client request.
     In our case: subject, object, operation
   - what is policy definition: who has permission for what. In our case the info
